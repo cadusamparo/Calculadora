@@ -4,6 +4,8 @@
 
 Aplicação front end feita ao longo das aulas do curso **[Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/)
 
+Esse projeto tem o objetivo de fazer uma calculdora implementando REACT
+
 # Objetivos
 
 -Iniciar um novo projeto com React 
