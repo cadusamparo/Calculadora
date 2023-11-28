@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Aplicação front end feita feita ao longo das aulas do curso **[Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/)
+Aplicação front end feita ao longo das aulas do curso **[Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/)
 
 # Objetivos
 
