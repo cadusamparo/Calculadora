@@ -14,7 +14,7 @@ Esse projeto tem o objetivo de fazer uma calculdora implementando REACT
 
 -Implementar lógicas no projeto
 
-## Interface
+# Interface
 
 ![Calcualdora](https://github.com/cadusamparo/Calculadora/assets/128712778/ef5b0ea1-618b-4d84-91fb-501441a1db05)
 
